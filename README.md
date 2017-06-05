@@ -1,6 +1,9 @@
 # hello-world
 
 <h1>Intro tutorial repository</h1> <p> this somehow wrote twice? somehow "# hello-world" in bold makes the initial title thingie with a heading and caption, then I can write whatever I want. Only difference = the auto title has a red left border and what I write has a green left border. </p> 
+
+
+
 <ul style="list-style-type: square"> Other styles: 
 <li>"hello-world" heading =/= any left border</li> 
 <li><ul>headings all have light grey bottom border that doesn't meet up with the one on top: thinking of how to do that... 
